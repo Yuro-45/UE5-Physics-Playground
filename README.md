@@ -105,7 +105,5 @@ Scripts/build_physics_playground.py   test-level generator
 ## Credits
 
 - Built on Epic Games' Third Person template (character, animations, level-prototyping meshes).
-- Developed with the help of **Claude Code** (Anthropic's AI assistant) for design guidance,
-  step-by-step Blueprint instructions, debugging/reviews and the test-level generator script.
-  I assembled and tested the Blueprints in-editor following that guidance; the assistant also added
-  one fix directly (keeping grabbed props at their current distance) and the node comment bubbles.
+- Developed with the help of Claude for design guidance, Blueprint instructions, debugging/reviews.
+  I assembled and tested the Blueprints in-editor following that guidance.
