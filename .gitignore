@@ -1,0 +1,20 @@
+# Unreal generated / local-only folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE files
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+
+# Third-party editor tooling (UnrealMCP) - not part of the game
+plugins/UnrealMCP/
+
+# Python cache
+__pycache__/
